@@ -1,6 +1,6 @@
 # nagios-plugins-informix
 
-This plugins check an Informix DB for various metrics
+This plugins check an Informix DB for various metrics. Obvously, you need Informix Client SDK
 
 #Usage :
 
